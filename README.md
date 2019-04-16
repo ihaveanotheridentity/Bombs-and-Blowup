@@ -1,3 +1,5 @@
+*This is the file loadup for the game, to look for the actual game, please visit the official website*
+
 # Bombs-and-Blowup
 Explore the Vast Emptiness and Fight of Monsters as you defeat the Boss at the end of the railway. With beautiful graphics and low end game, what's not the play. All at a starting price you can afford.
 
