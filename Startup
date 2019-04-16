@@ -1,0 +1,6 @@
+echo "# Bombs-and-Blowup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ihaveanotheridentity/Bombs-and-Blowup.git
+git push -u origin master
